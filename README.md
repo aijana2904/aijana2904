@@ -2,7 +2,7 @@
 - 👀 I’m interested in traveling the World 
 - 🌱 I’m currently learning Java coding
 - 💞️ I’m looking to collaborate on Java projects :))))
-- 📫 How to reach me abdyldaevaaijana@yahoo.com/WA 7735019010 
+
 
 
 <!---
